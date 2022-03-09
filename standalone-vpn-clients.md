@@ -90,8 +90,8 @@ If you have downloaded and installed the MotionPro client manually from the foll
 * Mac OS MotionPro client on the [Array Networks Clients and Tools page](https://support.arraynetworks.net/prx/001/http/supportportal.arraynetworks.net/downloads/downloads.html){:external}
 * Mac OS MotionPro client (Web-Launched MP Client) on the [Array Networks Clients and Tools page](https://support.arraynetworks.net/prx/001/http/supportportal.arraynetworks.net/downloads/downloads.html){:external}
 
-The MotionPro Plus clients, located in the [Apple Store](https://apps.apple.com/us/app/motionpro-plus/id1218085720?mt=12){:external}, and the Mac OS stand-alone client on the [Array Networks Clients and Tools page](https://support.arraynetworks.net/prx/001/http/supportportal.arraynetworks.net/downloads/downloads.html){:external} are not supported. 
-{:important}
+The MotionPro Plus clients, located in the [Apple Store](https://apps.apple.com/us/app/motionpro-plus/id1218085720?mt=12){:external} is not supported. 
+{: important}
 
 1. Open the Mac MotionPro or MotionPro Plus application.
 1. Click **Profile**, then **Create**. The Create Profile window shows.
