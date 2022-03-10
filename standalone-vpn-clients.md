@@ -44,11 +44,11 @@ If you have issues, uninstall any Array programs by using the Windows Control Pa
 
 To install and set up MotionPro on Linux, follow these steps:
 
-1. Make it executable. For example: `chmod +x MotionPro_Linux_Ubuntu_x86-64_1.2.3.sh`
+1. Make the file executable. For example: `chmod +x MotionPro_Linux_Ubuntu_x86-64_1.2.3.sh`
 1. Run the script to install. For example: `./MotionPro_Linux_Ubuntu_x86-64_1.2.3.sh`
 
    * Usage:  `./MotionPro --host [site] --user [username] --passwd [password]`
-   * To stop it:  `[control-c]`
+   * To stop the script:  `[control-c]`
 
 1. Enable `rc.local`, if needed. For example:
 
@@ -74,13 +74,14 @@ To start the MotionPro client, you must enter the `hostname` and `username` as a
 {: #web-browser-auto-install-motionpro}
 
 If you have ever [logged on to SSL VPN](/docs/iaas-vpn?topic=iaas-vpn-getting-started#login-to-the-vpn) using a Web browser, the compatible version of MotionPro client is downloaded for you to install.
+{: note}
 
-1. Next time you click on the desired VPN endpoint from the [VPN endpoint page](https://www.ibm.com/cloud/vpn-access) and log in, the client is automatically launched. 
+1. Next time you click on the wanted VPN endpoint from the [VPN access on IBM Cloud](https://www.ibm.com/cloud/vpn-access) website and log in, the client is automatically launched. 
 2. A profile for the selected endpoint is automatically loaded in your Web-launched MotionPro client. You do not have to create a new profile.
 3. Click **Connect**.
 
-The automatically downloaded MotionPro client does not work on MacOS Monterey (Version 12.x).{:note}
-
+The automatically downloaded MotionPro client does not work on MacOS Monterey (Version 12.x).
+{: note}
 
 ### If you are using the manually installed MotionPro clients
 {: #manually-installed-motionpro-clients}
